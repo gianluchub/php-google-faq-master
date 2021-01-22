@@ -1,0 +1,2 @@
+<?php
+$nomePagina = "Home";
